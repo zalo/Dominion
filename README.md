@@ -1,5 +1,5 @@
 # Dominion
-<p align="center">
+<p align="left">
   <a href="https://github.com/zalo/Dominion/deployments/activity_log?environment=github-pages">
       <img src="https://img.shields.io/github/deployments/zalo/Dominion/github-pages?label=Github%20Pages%20Deployment" title="Github Pages Deployment"></a>
   <a href="https://github.com/zalo/Dominion/commits/master">
